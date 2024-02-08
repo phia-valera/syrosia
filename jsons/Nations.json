@@ -3,7 +3,7 @@
 		"name": "Syrosia",
 		"leaderName": "Queen Laspay",
 		"adjective": ["Syrosian"],
-		"startBias": ["Snow"],
+		"startBias": ["Avoid [Tundra]", "Coast"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We come in peace!",
