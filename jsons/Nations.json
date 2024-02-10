@@ -6,13 +6,13 @@
 		"startBias": ["Avoid [Tundra]", "Coast"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Write something here.",
+		"startIntroPart2": "Write something here.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Submit or suffer the consequences!",
+		"attacked": "You'll regret this!",
+		"defeated": "We know when we've been beaten.",
+		"introduction": "Greetings! May we find our way together.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
